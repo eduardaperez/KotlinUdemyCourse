@@ -5,7 +5,7 @@
  * sua declaração inicia com - var ou val
  * não podem assumir palavras reservadas
  * var = mutáveis
- * val = imutáveis
+ * val = imutáveis -> usado mais como boas práticas
  * toda variável tem tipo - linguagem tipada
  */
 
