@@ -8,3 +8,5 @@ comentário de várias linhas
 
 //para identar automaticamente fazer Ctrl+Alt+L
 //str sempre em aspas duplas
+//fechar janela Shift+Esc
+//Run Shift+F10
