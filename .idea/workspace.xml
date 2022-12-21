@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0de375eb-146e-46e8-b09f-fa485d0f3c2a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/06_funcoes.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/07.0_controleDeFluxo-Operadores&amp;IfElse.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/07.1_controleDeFluxoWhen.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/01_comentarios.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/01_comentarios.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -57,23 +58,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._06_funcoesKt">
+  <component name="RunManager" selected="Kotlin._07_1_controleDeFluxoWhenKt">
     <configuration name="_00_mainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_00_mainKt" />
-      <module name="firstProjectUdemy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_02_variaveisKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_02_variaveisKt" />
-      <module name="firstProjectUdemy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_03_tiposKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_03_tiposKt" />
       <module name="firstProjectUdemy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,13 +80,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_07_0_controleDeFluxo_Operadores_IfElseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_07_0_controleDeFluxo_Operadores_IfElseKt" />
+      <module name="firstProjectUdemy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_07_1_controleDeFluxoWhenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_07_1_controleDeFluxoWhenKt" />
+      <module name="firstProjectUdemy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._07_1_controleDeFluxoWhenKt" />
+        <item itemvalue="Kotlin._07_0_controleDeFluxo_Operadores_IfElseKt" />
         <item itemvalue="Kotlin._06_funcoesKt" />
         <item itemvalue="Kotlin._04_stringsKt" />
         <item itemvalue="Kotlin._00_mainKt" />
-        <item itemvalue="Kotlin._03_tiposKt" />
-        <item itemvalue="Kotlin._02_variaveisKt" />
       </list>
     </recent_temporary>
   </component>
