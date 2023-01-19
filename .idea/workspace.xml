@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0de375eb-146e-46e8-b09f-fa485d0f3c2a" name="Changes" comment="estudo">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/07.2_controleDeFluxoFor.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/08_readLine.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/07.3_controleDeFluxoWhile.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/07.4_controleDeFluxoDoWhile.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/07.5_ContinueEBreak.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/07.0_controleDeFluxo-Operadores&amp;IfElse.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/07.0_controleDeFluxoOperadores&amp;IfElse.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,28 +59,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._07_2_controleDeFluxoForKt">
-    <configuration name="_04_stringsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_04_stringsKt" />
-      <module name="firstProjectUdemy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_06_funcoesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_06_funcoesKt" />
-      <module name="firstProjectUdemy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_07_0_controleDeFluxoOperadores_IfElseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_07_0_controleDeFluxoOperadores_IfElseKt" />
-      <module name="firstProjectUdemy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin._07_5_ContinueEBreakKt">
     <configuration name="_07_1_controleDeFluxoWhenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_07_1_controleDeFluxoWhenKt" />
       <module name="firstProjectUdemy" />
@@ -95,13 +74,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_07_3_controleDeFluxoWhileKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_07_3_controleDeFluxoWhileKt" />
+      <module name="firstProjectUdemy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_07_4_controleDeFluxoDoWhileKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_07_4_controleDeFluxoDoWhileKt" />
+      <module name="firstProjectUdemy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_07_5_ContinueEBreakKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_07_5_ContinueEBreakKt" />
+      <module name="firstProjectUdemy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._07_5_ContinueEBreakKt" />
+        <item itemvalue="Kotlin._07_4_controleDeFluxoDoWhileKt" />
+        <item itemvalue="Kotlin._07_3_controleDeFluxoWhileKt" />
         <item itemvalue="Kotlin._07_2_controleDeFluxoForKt" />
         <item itemvalue="Kotlin._07_1_controleDeFluxoWhenKt" />
-        <item itemvalue="Kotlin._07_0_controleDeFluxoOperadores_IfElseKt" />
-        <item itemvalue="Kotlin._06_funcoesKt" />
-        <item itemvalue="Kotlin._04_stringsKt" />
       </list>
     </recent_temporary>
   </component>
