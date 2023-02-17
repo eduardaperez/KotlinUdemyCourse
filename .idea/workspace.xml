@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_INJECTED_CODE" value="false" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0de375eb-146e-46e8-b09f-fa485d0f3c2a" name="Changes" comment="estudo">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/07.3_controleDeFluxoWhile.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/07.4_controleDeFluxoDoWhile.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/07.5_ContinueEBreak.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercicios.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +43,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="294E8dzVOw3vR0cm51hcOFJLJtj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -50,16 +54,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/cedua/OneDrive/Documentos/Estudo/Kotlin/KotlinUdemyCourse&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/cedua/OneDrive/Documentos/Estudo/Kotlin/KotlinUdemyCourse",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "Errors"
   }
-}</component>
-  <component name="RunManager" selected="Kotlin._07_5_ContinueEBreakKt">
+}]]></component>
+  <component name="RunManager" selected="Kotlin.ExerciciosKt">
+    <configuration name="ExerciciosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciciosKt" />
+      <module name="firstProjectUdemy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OutrosExerciciosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OutrosExerciciosKt" />
+      <module name="firstProjectUdemy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="_07_1_controleDeFluxoWhenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_07_1_controleDeFluxoWhenKt" />
       <module name="firstProjectUdemy" />
@@ -74,20 +93,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_07_3_controleDeFluxoWhileKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_07_3_controleDeFluxoWhileKt" />
-      <module name="firstProjectUdemy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_07_4_controleDeFluxoDoWhileKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_07_4_controleDeFluxoDoWhileKt" />
-      <module name="firstProjectUdemy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="_07_5_ContinueEBreakKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_07_5_ContinueEBreakKt" />
       <module name="firstProjectUdemy" />
@@ -97,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin._07_5_ContinueEBreakKt" />
-        <item itemvalue="Kotlin._07_4_controleDeFluxoDoWhileKt" />
-        <item itemvalue="Kotlin._07_3_controleDeFluxoWhileKt" />
-        <item itemvalue="Kotlin._07_2_controleDeFluxoForKt" />
+        <item itemvalue="Kotlin.ExerciciosKt" />
+        <item itemvalue="Kotlin.OutrosExerciciosKt" />
         <item itemvalue="Kotlin._07_1_controleDeFluxoWhenKt" />
+        <item itemvalue="Kotlin._07_2_controleDeFluxoForKt" />
+        <item itemvalue="Kotlin._07_5_ContinueEBreakKt" />
       </list>
     </recent_temporary>
   </component>
