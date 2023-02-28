@@ -8,8 +8,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0de375eb-146e-46e8-b09f-fa485d0f3c2a" name="Changes" comment="estudo">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercicios.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteUnitario/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteUnitario/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteUnitario/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteUnitario/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteUnitario/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteUnitario/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteUnitario/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteUnitario/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteUnitario/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteUnitario/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteUnitario/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteUnitario/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteUnitario/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteUnitario/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteUnitario/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteUnitario/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteUnitario/src/main/kotlin/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteUnitario/src/test/kotlin/MainTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/09_maisFuncoes.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/10_anyUnityNothing.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/11_orientacaoAObjetos.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/exercicios.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/exercicios.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +86,7 @@
     "settings.editor.selected.configurable": "Errors"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.ExerciciosKt">
+  <component name="RunManager" selected="Kotlin._09_maisFuncoesKt">
     <configuration name="ExerciciosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExerciciosKt" />
       <module name="firstProjectUdemy" />
@@ -93,8 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_07_5_ContinueEBreakKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_07_5_ContinueEBreakKt" />
+    <configuration name="_09_maisFuncoesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_09_maisFuncoesKt" />
       <module name="firstProjectUdemy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -102,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._09_maisFuncoesKt" />
         <item itemvalue="Kotlin.ExerciciosKt" />
         <item itemvalue="Kotlin.OutrosExerciciosKt" />
         <item itemvalue="Kotlin._07_1_controleDeFluxoWhenKt" />
         <item itemvalue="Kotlin._07_2_controleDeFluxoForKt" />
-        <item itemvalue="Kotlin._07_5_ContinueEBreakKt" />
       </list>
     </recent_temporary>
   </component>
