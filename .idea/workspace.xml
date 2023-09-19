@@ -8,28 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0de375eb-146e-46e8-b09f-fa485d0f3c2a" name="Changes" comment="estudo">
-      <change afterPath="$PROJECT_DIR$/TesteUnitario/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TesteUnitario/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TesteUnitario/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TesteUnitario/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TesteUnitario/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TesteUnitario/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TesteUnitario/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TesteUnitario/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TesteUnitario/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TesteUnitario/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TesteUnitario/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TesteUnitario/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TesteUnitario/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TesteUnitario/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TesteUnitario/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TesteUnitario/settings.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TesteUnitario/src/main/kotlin/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TesteUnitario/src/test/kotlin/MainTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/testePessoal.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/11_orientacaoAObjetos.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/11.0_orientacaoAObjetos.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Devaria Estudo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/11.1_orientacaoAObjetosInit.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,16 +53,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/cedua/OneDrive/Documentos/Estudo/Kotlin/KotlinUdemyCourse&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/cedua/OneDrive/Documentos/Estudo/Kotlin/KotlinUdemyCourse",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "Errors"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Kotlin.TestePessoalKt">
     <configuration name="ExerciciosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExerciciosKt" />
