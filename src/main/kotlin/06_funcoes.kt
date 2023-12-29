@@ -1,6 +1,8 @@
 import kotlin.math.*
 
 fun main() {
+    helloWorld()
+    println("A soma de 10 e 5 é ${soma(10, 5)}")
     /*
     Função -> parte do programa que possui uma responsabilidade
     Estrutura ->
@@ -16,16 +18,6 @@ fun main() {
     Int, Short, String, Char....
     Instância de classes
      */
-    fun helloWorld() {
-        println("Hello World")
-    }
-
-    fun soma(a: Int, b: Int): Int {
-        return (a + b)
-    }
-
-    //funções de uma única linha ->
-    fun divisao(a: Float, b: Float) = (a / b)
 
     //Propriedades e funções de String ->
     val str = "Programação Kotlin"
@@ -50,3 +42,14 @@ fun main() {
     println(round(232.2243)) //arredonda para cima
 
 }
+
+fun helloWorld() {
+    println("Hello World")
+}
+
+fun soma(a: Int, b: Int): Int {
+    return (a + b)
+}
+
+//funções de uma única linha ->
+fun divisao(a: Float, b: Float) = (a / b)
