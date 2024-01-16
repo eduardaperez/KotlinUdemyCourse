@@ -1,3 +1,10 @@
+/**
+ * Encapsulameto: Encapsula o código e esconde dados sensíveis
+ * Herança: Doa comportamentos às classes filhas
+ * Abstração: Comportamentos invisíveis, deixando aberto apenas o essencial (Private, Protected, Public)
+ * Polimorfismo:
+ */
+// Classes:
 class Pessoa(val anoNascimento: Int, val nome: String) {
     var olhos:String = ""
 

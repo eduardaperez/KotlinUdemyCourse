@@ -1,3 +1,4 @@
+// Init
 class Animal(var especie: String) {
     var fala: String? = null
     init { //inicialização - código que é executado qnd a classe é instanciada

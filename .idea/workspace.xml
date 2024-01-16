@@ -8,10 +8,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0de375eb-146e-46e8-b09f-fa485d0f3c2a" name="Changes" comment="estudo">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/08_excessoes.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/09_utilidadesDebug.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/13.2_orientacaoAObjetos.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/13.3_orientacaoAObjetos.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/14_heranca.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/06_funcoes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/06_funcoes.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/09_maisFuncoes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/11_maisFuncoes.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/10_anyUnityNothing.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/12_anyUnityNothing.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/11.0_orientacaoAObjetos.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/13.0_orientacaoAObjetos.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/11.1_orientacaoAObjetosInit.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/13.1_orientacaoAObjetos.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +28,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -69,16 +76,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin._13_2_orientacaoAObjetosKt">
     <configuration name="ExerciciosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExerciciosKt" />
-      <module name="firstProjectUdemy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OutrosExerciciosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OutrosExerciciosKt" />
       <module name="firstProjectUdemy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,15 +91,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_09_maisFuncoesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_09_maisFuncoesKt" />
+    <configuration name="_11_maisFuncoesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_11_maisFuncoesKt" />
       <module name="firstProjectUdemy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_11_1_orientacaoAObjetosInitKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_11_1_orientacaoAObjetosInitKt" />
+    <configuration name="_13_1_orientacaoAObjetosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_13_1_orientacaoAObjetosKt" />
+      <module name="firstProjectUdemy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_13_2_orientacaoAObjetosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_13_2_orientacaoAObjetosKt" />
       <module name="firstProjectUdemy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -107,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin._09_maisFuncoesKt" />
+        <item itemvalue="Kotlin._13_2_orientacaoAObjetosKt" />
+        <item itemvalue="Kotlin._13_1_orientacaoAObjetosKt" />
+        <item itemvalue="Kotlin._11_maisFuncoesKt" />
         <item itemvalue="Kotlin.TestePessoalKt" />
-        <item itemvalue="Kotlin._11_1_orientacaoAObjetosInitKt" />
         <item itemvalue="Kotlin.ExerciciosKt" />
-        <item itemvalue="Kotlin.OutrosExerciciosKt" />
       </list>
     </recent_temporary>
   </component>
@@ -124,6 +131,14 @@
       <option name="presentableId" value="Default" />
       <updated>1652363809517</updated>
     </task>
+    <task id="LOCAL-00001" summary="estudo">
+      <created>1703866985718</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703866985718</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,7 +154,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Mais aulas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mais aulas" />
+    <MESSAGE value="estudo" />
+    <option name="LAST_COMMIT_MESSAGE" value="estudo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
