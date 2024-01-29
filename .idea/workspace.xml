@@ -8,16 +8,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0de375eb-146e-46e8-b09f-fa485d0f3c2a" name="Changes" comment="estudo">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/13.2_orientacaoAObjetos.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/13.3_orientacaoAObjetos.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/14_heranca.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projetos/Portaria/Console.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projetos/Portaria/Portaria.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projetos/Portaria/main.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/09_maisFuncoes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/11_maisFuncoes.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/10_anyUnityNothing.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/12_anyUnityNothing.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/11.0_orientacaoAObjetos.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/13.0_orientacaoAObjetos.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/11.1_orientacaoAObjetosInit.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/13.1_orientacaoAObjetos.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/00_main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Caderno/00_main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/01_comentarios.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Caderno/01_comentarios.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/02_variaveis.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Caderno/02_variaveis.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/03_tipos.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Caderno/03_tipos.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/04_strings.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Caderno/04_strings.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/05_operadoresAritméticos.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Caderno/05_operadoresAritméticos.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/06_funcoes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Caderno/06_funcoes.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/07.0_controleDeFluxoOperadores&amp;IfElse.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Caderno/07.0_controleDeFluxoOperadores&amp;IfElse.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/07.1_controleDeFluxoWhen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Caderno/07.1_controleDeFluxoWhen.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/07.2_controleDeFluxoFor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Caderno/07.2_controleDeFluxoFor.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/07.3_controleDeFluxoWhile.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Caderno/07.3_controleDeFluxoWhile.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/07.4_controleDeFluxoDoWhile.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Caderno/07.4_controleDeFluxoDoWhile.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/07.5_ContinueEBreak.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Caderno/07.5_ContinueEBreak.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/08_excessoes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Caderno/08_excessoes.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/08_readLine.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Caderno/08_readLine.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/09_utilidadesDebug.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Caderno/09_utilidadesDebug.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/11_maisFuncoes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Caderno/11_maisFuncoes.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/12_anyUnityNothing.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Caderno/12_anyUnityNothing.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/13.0_orientacaoAObjetos.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Caderno/13.0_orientacaoAObjetos.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/13.1_orientacaoAObjetos.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Caderno/13.1_orientacaoAObjetos.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/13.2_orientacaoAObjetos.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Caderno/13.2_orientacaoAObjetos.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/13.3_orientacaoAObjetos.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Caderno/13.3_orientacaoAObjetos.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/14_heranca.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Caderno/14_heranca.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/testePessoal.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,8 +45,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Class" />
+        <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -73,12 +91,20 @@
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._13_2_orientacaoAObjetosKt">
-    <configuration name="ExerciciosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciciosKt" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\cedua\OneDrive\Área de Trabalho\         \Cursos\0_Udemy\Kotlin\KotlinUdemyCourse\src\main\kotlin\Caderno" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="Projetos.Portaria" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.MainKt">
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Projetos.Portaria.MainKt" />
       <module name="firstProjectUdemy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,21 +118,21 @@
       </method>
     </configuration>
     <configuration name="_11_maisFuncoesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_11_maisFuncoesKt" />
+      <option name="MAIN_CLASS_NAME" value="Caderno._11_maisFuncoesKt" />
       <module name="firstProjectUdemy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="_13_1_orientacaoAObjetosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_13_1_orientacaoAObjetosKt" />
+      <option name="MAIN_CLASS_NAME" value="Caderno._13_1_orientacaoAObjetosKt" />
       <module name="firstProjectUdemy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="_13_2_orientacaoAObjetosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_13_2_orientacaoAObjetosKt" />
+      <option name="MAIN_CLASS_NAME" value="Caderno._13_2_orientacaoAObjetosKt" />
       <module name="firstProjectUdemy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -114,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MainKt" />
         <item itemvalue="Kotlin._13_2_orientacaoAObjetosKt" />
         <item itemvalue="Kotlin._13_1_orientacaoAObjetosKt" />
         <item itemvalue="Kotlin._11_maisFuncoesKt" />
         <item itemvalue="Kotlin.TestePessoalKt" />
-        <item itemvalue="Kotlin.ExerciciosKt" />
       </list>
     </recent_temporary>
   </component>
@@ -161,12 +187,12 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/09_utilidadesDebug.kt</url>
+          <url>file://$PROJECT_DIR$/src/main/kotlin/Caderno/09_utilidadesDebug.kt</url>
           <line>2</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/09_utilidadesDebug.kt</url>
+          <url>file://$PROJECT_DIR$/src/main/kotlin/Caderno/09_utilidadesDebug.kt</url>
           <line>4</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>

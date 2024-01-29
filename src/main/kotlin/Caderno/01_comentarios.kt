@@ -1,4 +1,4 @@
-//comentário
+package Caderno//comentário
 /*
 comentário de várias linhas
  */

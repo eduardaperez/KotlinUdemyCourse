@@ -1,3 +1,5 @@
+package Caderno
+
 fun bonusWhen(cargo: String): Float {
     return when (cargo) {
         "Gerente" -> 2000f

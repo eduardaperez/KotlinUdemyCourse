@@ -1,3 +1,5 @@
+package Caderno
+
 /**
  * variáveis armazenam valores
  * entrada, processamento e saída - variáveis ajudam nisso

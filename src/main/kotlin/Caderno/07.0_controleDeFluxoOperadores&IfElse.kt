@@ -1,4 +1,4 @@
-/* Operadores de comparação, igualdade e lógicos->
+package Caderno/* Operadores de comparação, igualdade e lógicos->
     if (a > b) {} maior
     if (a < b) {} menor
     if (a >= b) {} maior igual

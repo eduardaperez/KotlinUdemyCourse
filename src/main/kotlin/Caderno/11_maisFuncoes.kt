@@ -1,3 +1,5 @@
+package Caderno
+
 fun main() {
     endereco("street", "ctba", "pr")
     endereco(cidade = "sp", rua = "street", estado = "sp") // se iniciar marcando parâmetros, é necessário marcar todos

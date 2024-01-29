@@ -1,3 +1,5 @@
+package Caderno
+
 fun main() {
     val s = readLine()
 
